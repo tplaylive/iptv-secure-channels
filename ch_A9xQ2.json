@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sangsad TV",
+    "category": "News",
+    "img": "https://i.postimg.cc/RVR9YF6Y/sangsad.jpg",
+    "description": "Bangladesh",
+    "sources": [
+      {
+        "name": "Auto",
+        "u1": "aHR0cHM6Ly90cGxheS5saXZl",
+        "u2": "L291dC9uZXdzL2JkLXNhbmdzYWQuaW5kZXgubTN1OA=="
+      }
+    ]
+  }
+]
